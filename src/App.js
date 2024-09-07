@@ -10,7 +10,7 @@ function App() {
         <a
          
         >
-          Learning CI/CD on AWS for React App using AWS Amplify
+          Learning CI/CD on AWS for React App using Github, AWS Codebuild and AWS Codepipeline
         </a>
       </header>
     </div>
